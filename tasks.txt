@@ -1,1 +1,2 @@
 # Each task will be represented here
+3. Create Laravel migrations
